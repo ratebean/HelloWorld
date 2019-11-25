@@ -12,6 +12,7 @@ namespace HelloWorld
         {
             Console.WriteLine("HelloWorld put me in master branch");
             Console.WriteLine("HelloWorld LOS-ONE");
+            Console.WriteLine("HelloWorld LOS-TWO");
 
             Console.WriteLine("press any key..");
             Console.ReadKey();
